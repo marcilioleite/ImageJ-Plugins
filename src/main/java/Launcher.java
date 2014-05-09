@@ -9,7 +9,7 @@ import ij.ImageJ;
 
 /**
  *
- * @author Marcilio
+ * @author Marcilio Leite
  */
 public class Launcher {
     

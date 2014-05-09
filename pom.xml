@@ -13,8 +13,8 @@
 		<relativePath />
 	</parent>
 
-	<groupId>tpmarc.group</groupId>
-	<artifactId>Meus_Plugins</artifactId>
+	<groupId>pdi.imagej</groupId>
+	<artifactId>ImageJ</artifactId>
 	<version>0.1.0</version>
 
 	<name>ImageJ Plugins</name>
