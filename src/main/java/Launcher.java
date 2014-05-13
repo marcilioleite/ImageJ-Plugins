@@ -1,12 +1,4 @@
 
-import ij.ImageJ;
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
  *
  * @author Marcilio Leite
@@ -14,6 +6,6 @@ import ij.ImageJ;
 public class Launcher {
     
     public static void main(String args[]) {
-        ImageJ imagej = new ImageJ();
+        new ij.ImageJ();
     }
 }
